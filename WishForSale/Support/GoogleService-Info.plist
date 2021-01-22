@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>978925295925-se550atp5d44a4lpbi570j18n32knf07.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.978925295925-se550atp5d44a4lpbi570j18n32knf07</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqm0zBoVMztOIi9Swz9i2U8xAcv_KFJTI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978925295925</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Starvation-Tech.WishForSale</string>
+	<key>PROJECT_ID</key>
+	<string>wishforsale-1bdb3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wishforsale-1bdb3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978925295925:ios:5cbf2029fd7be777fb147c</string>
+	<key>DATABASE_URL</key>
+	<string>https://wishforsale-1bdb3.firebaseio.com</string>
+</dict>
+</plist>

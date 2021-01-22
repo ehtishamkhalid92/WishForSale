@@ -1,0 +1,6 @@
+module Pods_WishForSale_WishForSaleUITests {
+  umbrella header "Pods-WishForSale-WishForSaleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
